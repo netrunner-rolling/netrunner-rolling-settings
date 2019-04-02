@@ -1,0 +1,6 @@
+[KDE]
+LookAndFeelPackage=org.kde.netrunner-black.desktop
+WheelScrollLines=2
+
+[Icons]
+Theme=Obsidian
